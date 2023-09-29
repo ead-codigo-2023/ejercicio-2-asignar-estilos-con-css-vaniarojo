@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+  
+}
+
+h1{
+    font-size: 72px;
+    text-transform: uppercase;
+    letter-spacing:-5%;
+    color: #000;
+    font-family: Poppins;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 90px; /* 125% */
+}
+
+a{
+    padding: 12px 22px;
+    color:#fff;
+    background-color: #000;
+    border-radius:8px;
+}
+.hero {
+    padding-top: 30px;
+    padding-right: 900px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+background-color:#F4F6F5;
+background-image: url(../imagenes/image.jpg);
+background-repeat: no-repeat;
+background-position: bottom right;
+border-radius: 40px;
+}
+
+.hero__body {
+    width: 450px;
+}
